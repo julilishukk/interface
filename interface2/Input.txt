@@ -1,0 +1,9 @@
+8
+Lishchuk Julia 17.11.2002 5 5 5
+Stepanov Max 15.01.2003 3 5 2
+Gerey Andrew 11.11.2000 5 5 1
+Prokopchyk Anna 07.08.2005 4 5 2
+Demchyk Olga 27.10.2005 4 1 2
+Sokol Ivan 12.11.2003 5 5 5
+Kucher Vika 05.12.2002 2 1 1
+Kolesnyk Igor 07.08.2001 1 2 3

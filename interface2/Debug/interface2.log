@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MetaGen.targets(91,5): warning : Required file "D:\віпз\LAB4_INTERFACE\DEBUG\BUNIFU_UI_V1.5.3.DLL" is missing.
+  MyForm.cpp
+D:\віпз\interface2\interface2\MyForm.h(836,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\віпз\interface2\interface2\MyForm.h(837,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\віпз\interface2\interface2\MyForm.h(838,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\віпз\interface2\interface2\MyForm.h(832,19): warning C4101: 'example': unreferenced local variable
+D:\віпз\interface2\interface2\MyForm.h(882,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\віпз\interface2\interface2\MyForm.h(883,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\віпз\interface2\interface2\MyForm.h(884,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\віпз\interface2\interface2\MyForm.h(878,18): warning C4101: 'example': unreferenced local variable
+D:\віпз\interface2\interface2\MyForm.h(922,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\віпз\interface2\interface2\MyForm.h(923,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\віпз\interface2\interface2\MyForm.h(924,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\віпз\interface2\interface2\MyForm.h(918,19): warning C4101: 'example': unreferenced local variable
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  interface2.vcxproj -> D:\віпз\interface2\Debug\interface2.exe

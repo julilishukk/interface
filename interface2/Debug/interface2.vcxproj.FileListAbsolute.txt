@@ -1,0 +1,3 @@
+D:\віпз\interface2\interface2\Debug\interface2.vcxprojAssemblyReference.cache
+D:\віпз\interface2\interface2\Debug\interface2.MyForm.resources
+D:\віпз\interface2\interface2\Debug\interface2.vcxproj.GenerateResource.cache
